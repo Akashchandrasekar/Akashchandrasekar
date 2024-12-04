@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **Html,Css,Javascript,python**
+- 💬 Ask me about **Html,Css,Javascript,python,Node.js,mongoDb,React,express,Sql,Mysql,Postman**
 
 - 📫 How to reach me **akashsamprince1@gmail.com**
 
